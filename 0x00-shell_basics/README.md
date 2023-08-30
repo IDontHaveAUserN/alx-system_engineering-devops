@@ -11,3 +11,4 @@ Deleting my_first_directory directory
 Change working directory to previous one
 Listing all files including hidden ones in he current working directory and /boot directory
 Printing the file iamafile
+Creating a symbolic link
