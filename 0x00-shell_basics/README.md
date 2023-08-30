@@ -13,3 +13,4 @@ Listing all files including hidden ones in he current working directory and /boo
 Printing the file iamafile
 Creating a symbolic link
 Creating a file that copies
+Moving all files
