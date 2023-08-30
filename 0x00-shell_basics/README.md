@@ -4,3 +4,4 @@ Change the current working directory to home
 Displaying current directory in a long format
 Listing all files including hidden ones with .
 Listing all files in long format including group IDs and hidden files
+Creating a script that creates a directory in the /tmp directory
