@@ -15,3 +15,4 @@ Creating a symbolic link
 Creating a file that copies
 Moving all files
 Deleting files with ~
+Creating different directories in one line
