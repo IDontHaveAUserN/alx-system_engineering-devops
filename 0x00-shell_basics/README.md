@@ -14,3 +14,4 @@ Printing the file iamafile
 Creating a symbolic link
 Creating a file that copies
 Moving all files
+Deleting files with ~
