@@ -6,4 +6,5 @@ Creating an empty file
 Adding execute permission to hello file
 Adding more permissions
 Adding permission to all
-No permission
+No permission except for others
+giving permission according to what is giving
