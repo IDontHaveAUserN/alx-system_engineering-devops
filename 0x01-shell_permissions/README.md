@@ -5,3 +5,4 @@ Changing file owner hello to user betty
 Creating an empty file
 Adding execute permission to hello file
 Adding more permissions
+Adding permission to all
