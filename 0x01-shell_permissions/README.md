@@ -12,3 +12,4 @@ Setting the mode of a file the same as another
 execute permission to all subdirectories of the current directory
 Creating directory
 Changing owner
+Changing owner and group
