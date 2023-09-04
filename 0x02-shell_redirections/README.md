@@ -17,3 +17,4 @@ Counting and jumping lines
 Lines that do not contain the word bin
 All lines beginning with an alphabet
 Replacing
+Removing c and C
