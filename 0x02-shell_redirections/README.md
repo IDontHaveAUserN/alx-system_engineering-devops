@@ -13,3 +13,4 @@ Counting
 Here comes unique
 Specific pattern
 Counting specified pattern lines
+Counting and jumping lines
