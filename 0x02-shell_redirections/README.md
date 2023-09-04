@@ -21,3 +21,4 @@ Removing c and C
 Reverse
 Displaying all users
 All empty files
+.gif
