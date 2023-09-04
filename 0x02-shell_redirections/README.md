@@ -19,3 +19,4 @@ All lines beginning with an alphabet
 Replacing
 Removing c and C
 Reverse
+Displaying all users
