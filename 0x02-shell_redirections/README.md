@@ -22,3 +22,4 @@ Reverse
 Displaying all users
 All empty files
 .gif
+Acrostic
