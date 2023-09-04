@@ -11,3 +11,4 @@ Duplicate last line
 Deleting files
 Counting
 Here comes unique
+Specific pattern
