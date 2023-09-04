@@ -12,3 +12,4 @@ Deleting files
 Counting
 Here comes unique
 Specific pattern
+Counting specified pattern lines
