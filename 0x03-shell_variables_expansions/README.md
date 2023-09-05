@@ -9,3 +9,4 @@ Global variable
 Adding to env variable
 Dividing with env variable
 Displaying result
+Binary convertion
