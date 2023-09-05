@@ -3,3 +3,4 @@ Current user
 Adding file
 Counting
 Listing env
+Listing all
