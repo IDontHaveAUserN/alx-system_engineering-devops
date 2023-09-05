@@ -11,3 +11,4 @@ Dividing with env variable
 Displaying result
 Binary convertion
 Except oo
+Print NUM
