@@ -12,3 +12,4 @@ Displaying result
 Binary convertion
 Except oo
 Print NUM
+Converting to base 16
