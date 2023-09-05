@@ -15,3 +15,4 @@ Print NUM
 Converting to base 16
 Encryption
 Every other line
+Base string
