@@ -6,3 +6,4 @@ Listing env
 Listing all
 Creating variable
 Global variable
+Adding to env variable
