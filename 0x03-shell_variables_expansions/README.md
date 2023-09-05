@@ -14,3 +14,4 @@ Except oo
 Print NUM
 Converting to base 16
 Encryption
+Every other line
